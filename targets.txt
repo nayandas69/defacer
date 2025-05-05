@@ -1,0 +1,6 @@
+example.com
+testphp.vulnweb.com
+http://testasp.vulnweb.com
+https://httpbin.org
+demo.testfire.net
+http://zero.webappsecurity.com
