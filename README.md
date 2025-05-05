@@ -2,7 +2,7 @@
 
 > A powerful and user-friendly web defacement tool written in Python by [Nayan Das](https://github.com/nayandas69)
 
-> ![DEFACER](https://raw.githubusercontent.com/nayandas69/defacer/main/img/DEMO.png)
+![DEFACER](https://raw.githubusercontent.com/nayandas69/defacer/main/img/DEMO.png)
 
 ## What is DEFACER?
 
